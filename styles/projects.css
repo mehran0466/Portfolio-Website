@@ -1,0 +1,54 @@
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightslategray;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Section styling */
+section {
+    padding: 20px;
+    background-color: #444;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+section h2 {
+    font-size: 1.6rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
