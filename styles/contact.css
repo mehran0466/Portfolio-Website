@@ -1,0 +1,47 @@
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightslategray;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+/* Contact Section */
+#contact {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #444;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+#contact a {
+    color: lightslategray;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+#contact a:hover {
+    color: white;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
