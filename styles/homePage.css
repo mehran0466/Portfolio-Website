@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightslategray;
+    color: white;
+    margin: 0;
+}
+
+.project-card a {
+    color: lightslategray; 
+    text-decoration: none;
+}
+
+.project-card {
+    width: 90%;
+    padding: 20px;
+}
